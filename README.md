@@ -1,0 +1,4 @@
+kickstart
+=========
+
+centos kickstart
